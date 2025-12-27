@@ -1,4 +1,4 @@
-# ¡Hola! Soy Elisandro Elias Flores Zaña 👋
+# ¡Hola! Soy Elisandro Elias Flores Zaña 
 
 ### 🚀 Desarrollador Web Full Stack | .NET Ecosystem Specialist
 Soy un desarrollador enfocado en la creación de **aplicaciones escalables y eficientes**. Mi experiencia se centra en el ecosistema .NET, construyendo soluciones robustas desde el backend hasta interfaces de usuario dinámicas e interactivas.
@@ -23,23 +23,13 @@ Soy un desarrollador enfocado en la creación de **aplicaciones escalables y efi
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliasFlores25&show_icons=true&theme=radical&hide_border=true&title_color=512BD4" alt="Estadísticas de Elisandro" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasFlores25&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 🎯 Enfoque Profesional
 - 🏗️ **Arquitectura:** Aplicación de patrones de diseño para productos escalables.
 - 💻 **Desarrollo:** Creación de vistas interactivas y lógica de negocio sólida.
-- 🚀 **Aprendizaje:** Explorando constantemente las nuevas versiones de .NET y mejores prácticas de DevOps.
+- 🚀 **Aprendizaje:** Explorando constantemente las nuevas versiones de .NET y mejores prácticas de ingeniería.
 
 ---
 
 ### 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@AQUI.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisandro-e-flores-06928835b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliasEFloresZ2006@outlook.com)
