@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**EliasFlores25/EliasFlores25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto principal]**
+- 🌱 Estoy aprendiendo **[Tecnología que estés estudiando]**
+- 💬 Pregúntame sobre **[Tus áreas de dominio]**
+- 📫 Cómo contactarme: **[Tu correo o LinkedIn]**
 
-Here are some ideas to get you started:
+### 🛠 Mi Stack Tecnológico
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=[EliasFlores25]&show_icons=true&theme=radical)
