@@ -1,7 +1,7 @@
 # ¡Hola! Soy Elisandro Elias Flores Zaña 
 
 ### 🚀 Desarrollador Web Full Stack | .NET Ecosystem Specialist
-Soy un desarrollador enfocado en la creación de **aplicaciones escalables y eficientes**. Mi experiencia se centra en el ecosistema .NET, construyendo soluciones robustas desde el backend hasta interfaces de usuario dinámicas e interactivas.
+Soy un desarrollador enfocado en la creación de **aplicaciones escalables y eficientes**. Mi especialidad radica en integrar la robustez del ecosistema .NET con la agilidad de **React** para construir soluciones de alto impacto.
 
 ---
 
@@ -12,21 +12,24 @@ Soy un desarrollador enfocado en la creación de **aplicaciones escalables y efi
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Frontend & Design**
+**Frontend & Library**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Herramientas & Otros**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Herramientas & Entornos**
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🎯 Enfoque Profesional
-- 🏗️ **Arquitectura:** Aplicación de patrones de diseño para productos escalables.
-- 💻 **Desarrollo:** Creación de vistas interactivas y lógica de negocio sólida.
-- 🚀 **Aprendizaje:** Explorando constantemente las nuevas versiones de .NET y mejores prácticas de ingeniería.
+- 🏗️ **Arquitectura:** Aplicación de patrones de diseño para productos escalables y mantenibles.
+- ⚛️ **Modern Frontend:** Creación de interfaces dinámicas y reutilizables mediante componentes en React.
+- 🚀 **Desarrollo Full Stack:** Especialista en conectar Backends robustos con experiencias de usuario fluidas.
 
 ---
 
